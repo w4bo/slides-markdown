@@ -1,0 +1,18 @@
+name: "build"
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate the slides
+        run: |
+          sudo apt-get install pandoc
+          npm install --global mermaid-filter@1.4.7
+          chmod +x *.sh
+          ./build.sh
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.4.3
+        with:
+          branch: gh-pages
+          folder: _site

@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  build-slides:
+    init: true
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    hostname: build-slides
+    container_name: build-slides
+    volumes:
+      - ./:/data
+    command: ["/bin/bash", "/data/build.sh"]
