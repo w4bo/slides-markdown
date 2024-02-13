@@ -1,6 +1,6 @@
 <style>
 .slides {
-    font-size: 0.9em;
+    font-size: 0.5em !important;
 }
 
 .reveal ul {
@@ -23,12 +23,12 @@ img {
     max-height: 350px !important;
 }
 
-span {
-    font-size: 0.9em;
+p {
+    font-size: 0.5em !important;
 }
 
-p {
-    font-size: 0.9em;
+.references {
+    font-size: 0.5em !important;
 }
 
 figcaption {
