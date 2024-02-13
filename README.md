@@ -3,6 +3,7 @@ author: John Doe
 title: Title
 subtitle: Subtitle
 date: 2023-12-04
+format: revealjs
 ---
 
 # Main slide
