@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/w4bo/slides-markdown/compare/1.0.0...1.0.1) (2024-02-13)
+
+
+### Bug Fixes
+
+* **ci:** add example of bibliography ([fd8fb89](https://github.com/w4bo/slides-markdown/commit/fd8fb89e6bb02ab5639c0322b48c171c06fbe4ca))
+
 ## 1.0.0 (2024-02-13)
 
 
