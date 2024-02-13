@@ -117,8 +117,6 @@
       margin-left: 2em;
     }  </style>
   <link rel="stylesheet" href="prova_files/libs/revealjs/dist/theme/quarto.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/white.min.css">
-  <link rel="stylesheet" href="slides.css">
   <link href="prova_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="prova_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="prova_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -332,6 +330,7 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
+      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -544,7 +543,7 @@ Francia, Matteo, Enrico Gallinucci, and Matteo Golfarelli. 2024. <span>“Coloss
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: 'h.v',
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -585,7 +584,7 @@ Francia, Matteo, Enrico Gallinucci, and Matteo Golfarelli. 2024. <span>“Coloss
         rtl: false,
 
         // see https://revealjs.com/vertical-slides/#navigation-mode
-        navigationMode: 'default',
+        navigationMode: 'linear',
 
         // Randomizes the order of slides each time the presentation loads
         shuffle: false,
@@ -669,7 +668,7 @@ Francia, Matteo, Enrico Gallinucci, and Matteo Golfarelli. 2024. <span>“Coloss
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.
-        width: 1050,
+        width: 1100,
 
         height: 700,
 
