@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/w4bo/slides-markdown/compare/1.0.1...1.0.2) (2024-02-13)
+
+
+### Bug Fixes
+
+* **css:** reducing fonts ([3fda933](https://github.com/w4bo/slides-markdown/commit/3fda933e58adbeec7b48f8154ea7de876dec0d85))
+
 ## [1.0.1](https://github.com/w4bo/slides-markdown/compare/1.0.0...1.0.1) (2024-02-13)
 
 
