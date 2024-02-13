@@ -5,12 +5,6 @@ subtitle: Subtitle
 date: 2023-12-04
 format:
   revealjs: 
-    slide-number: true
-    navigation-mode: vertical
-    controls-layout: bottom-right
-    controls-tutorial: true
-    preview-links: auto
-    css: slides.css
     footer: "My footnote"
 ---
 
