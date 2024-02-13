@@ -8,7 +8,7 @@ config.plugins.push(
         "publishCmd": publishCmd,
     }],
     ["@semantic-release/github", {
-        "assets": ["_site/*.pptx"]
+        "assets": ["slides/_site/*.pptx"]
     }],
     "@semantic-release/git",
 )
