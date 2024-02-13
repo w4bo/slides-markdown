@@ -8,6 +8,8 @@ format:
     controls-layout: bottom-right
     controls-tutorial: true
     preview-links: auto
-    css: slides.css
+    css:
+      - https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/white.min.css 
+      - slides.css
   pptx:
     css: styles.css
