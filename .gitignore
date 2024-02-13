@@ -4,6 +4,8 @@
 *.pdf
 *.err
 *.pptx
+_site/*
+!_site/.dummy
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv,node,java,scala,macos,linux,gradle,python,windows,virtualenv,microsoftoffice
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,node,java,scala,macos,linux,gradle,python,windows,virtualenv,microsoftoffice
@@ -429,3 +431,5 @@ gradle-app.setting
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/venv,node,java,scala,macos,linux,gradle,python,windows,virtualenv,microsoftoffice
+
+/.quarto/
