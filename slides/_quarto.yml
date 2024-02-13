@@ -9,3 +9,5 @@ format:
     controls-tutorial: true
     preview-links: auto
     css: slides.css
+  pptx:
+    css: styles.css

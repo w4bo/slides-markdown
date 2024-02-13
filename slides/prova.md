@@ -6,6 +6,7 @@ date: 2023-12-04
 format:
   revealjs: 
     footer: "My footnote"
+bibliography: prova.bib
 ---
 
 # Main slide
@@ -14,6 +15,7 @@ format:
 
 ::: {.column width="40%"}
 Left column
+[@DBLP:journals/eswa/FranciaGG24]
 :::
 
 ::: {.column width="60%"}
@@ -72,3 +74,5 @@ let b = 2;
 let c = x => 1 + 2 + x;
 c(3);
 ```
+
+# References
