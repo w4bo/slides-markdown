@@ -19,6 +19,7 @@ jobs:
       - name: Release
         if: github.event_name == 'push'
         run: |
+          cd ..
           npm install
           npx semantic-release
         env:
