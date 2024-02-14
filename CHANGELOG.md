@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/w4bo/slides-markdown/compare/1.0.2...1.0.3) (2024-02-13)
+
+
+### Bug Fixes
+
+* **css:** update style ([07d05bf](https://github.com/w4bo/slides-markdown/commit/07d05bf6bfdb2eea810b34402dce1a18634ea65a))
+
 ## [1.0.2](https://github.com/w4bo/slides-markdown/compare/1.0.1...1.0.2) (2024-02-13)
 
 
