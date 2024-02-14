@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/w4bo/slides-markdown/compare/1.0.3...1.0.4) (2024-02-14)
+
+
+### Bug Fixes
+
+* **css:** fix image border ([5834b44](https://github.com/w4bo/slides-markdown/commit/5834b44e876c3e3f94f33ebf2e48b241a921a610))
+
 ## [1.0.3](https://github.com/w4bo/slides-markdown/compare/1.0.2...1.0.3) (2024-02-13)
 
 
