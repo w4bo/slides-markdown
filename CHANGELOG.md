@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/w4bo/slides-markdown/compare/1.0.4...1.0.5) (2024-02-14)
+
+
+### Bug Fixes
+
+* **css:** fix image caption ([bca05a3](https://github.com/w4bo/slides-markdown/commit/bca05a32ff9a4fc420a4f1477ba0ec7002304d6b))
+
 ## [1.0.4](https://github.com/w4bo/slides-markdown/compare/1.0.3...1.0.4) (2024-02-14)
 
 
