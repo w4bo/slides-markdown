@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/w4bo/slides-markdown/compare/1.0.5...1.0.6) (2024-02-14)
+
+
+### Bug Fixes
+
+* **qmd:** test embedding ([4d7c56e](https://github.com/w4bo/slides-markdown/commit/4d7c56e834db5de9d2528cd7faf10d50a21a489f))
+
 ## [1.0.5](https://github.com/w4bo/slides-markdown/compare/1.0.4...1.0.5) (2024-02-14)
 
 
