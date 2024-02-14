@@ -29,7 +29,9 @@ Right column
 - $A \in \{0, 1\}$
 - $$A \in \{0, 1\}$$
 
----
+# This is embedded
+
+{{< include embed.md >}}
 
 ## A Section
 
