@@ -20,16 +20,13 @@ em {
 
 img {
     max-height: 350px !important;
-    border: 1px solid #555;
+    width: auto !important;
+    height: auto !important;
+    // border: 1px solid #555;
+    box-shadow: 2px 2px 2px 2px lightgray !important;
 }
 
 .caption {
-    text-align: center !important;
-    font-size: 0.6em !important;
-    font-style: italic !important;
-}
-
-figcaption {
     text-align: center !important;
     font-size: 0.6em !important;
     font-style: italic !important;
