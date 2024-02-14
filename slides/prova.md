@@ -35,6 +35,9 @@ Right column
 
 Bbb
 
+![immagine](https://github.com/w4bo/img-dump/assets/18005592/edb97112-e9bb-45f8-8f2c-3121ebd80b7d)
+
+
 ---
 
 ## A Section

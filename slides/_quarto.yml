@@ -5,6 +5,7 @@ format:
   revealjs: 
     theme: [white, slides.scss]
     slide-number: true
+    default-image-extension: ""
     # navigation-mode: vertical
     controls-layout: bottom-right
     controls-tutorial: true
