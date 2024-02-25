@@ -4,6 +4,7 @@
 *.pdf
 *.err
 *.pptx
+!slides/slides.pptx
 **/_site/*
 !**/_site/.dummy
 **/.quarto

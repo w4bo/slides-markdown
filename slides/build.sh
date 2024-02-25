@@ -1,10 +1,5 @@
 #!/bin/bash
 set -exo
-# for f in *.md; 
-#     do echo "Processing $f file...";
-#     quarto render $f --to revealjs || true
-#     quarto render $f --to pptx || true
-# done
-
+# quarto pandoc -o slides.pptx --print-default-data-file reference.pptx 
 quarto render --to revealjs || true
 quarto render --to pptx || true

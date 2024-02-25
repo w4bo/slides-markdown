@@ -14,3 +14,5 @@ format:
     footnotes-hover: true
     scrollable: true
     width: 1100
+  pptx:
+    reference-doc: slides.pptx
