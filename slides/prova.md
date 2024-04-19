@@ -16,10 +16,24 @@ bibliography: prova.bib
 ::: {.column width="40%"}
 Left column
 [@DBLP:journals/eswa/FranciaGG24]
+
+- Nested level 1
+  - Nested level 2
+    - Nested level 3
+    - Nested level 3
+  - Nested level 2
+- Nested level 1
 :::
 
 ::: {.column width="60%"}
 Right column
+
+- Nested level 1
+  - Nested level 2
+    - Nested level 3
+    - Nested level 3
+  - Nested level 2
+- Nested level 1
 :::
 
 ::::

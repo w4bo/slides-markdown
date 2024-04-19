@@ -20,6 +20,7 @@ em {
 
 img {
     max-height: 350px !important;
+    max-width: 100% !important;
     width: auto !important;
     height: auto !important;
     // border: 1px solid #555;
@@ -48,6 +49,14 @@ figcaption {
 
 .h2 {
     color: #29335C !important;
+}
+
+.reveal ul {
+    margin-left: 45px !important;
+}
+
+.reveal ul ul {
+    margin-left: 25px !important;
 }
 
 .subtitle {
