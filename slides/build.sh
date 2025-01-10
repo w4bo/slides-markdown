@@ -1,5 +1,10 @@
 #!/bin/bash
-set -exo
-# quarto pandoc -o slides.pptx --print-default-data-file reference.pptx 
-quarto render --to revealjs || true
-quarto render --to pptx || true
+set -e
+for FILE in *.ipynb; do
+    echo "Processing $FILE file...";
+    filename=$(basename -- "$FILE")
+    extension="${filename##*.}"
+    filename="${filename%.*}"
+    jupyter nbconvert --clear-output --inplace "$FILE"
+    jupyter nbconvert --execute --to notebook --inplace "$FILE"
+done

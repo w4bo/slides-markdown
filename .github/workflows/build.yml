@@ -5,16 +5,29 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
+      - name: Running the notebooks (if any)
+        run: |
+          cd slides
+          chmod +x *.sh
+          docker compose up build
       - name: Generate the slides
         run: |
           cd slides 
-          docker compose up
+          cp publish.sh.example publish.sh
+          docker compose up publish
       - name: Deploy
         if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
         uses: JamesIves/github-pages-deploy-action@v4.7.2
         with:
           branch: gh-pages
           folder: slides/_site
+      - uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: 120
+      - name: Export pdfs
+        run: |
+          cd slides 
+          ./export2pdf.sh
       - name: Install Node
         uses: actions/setup-node@v4.1.0
         with:

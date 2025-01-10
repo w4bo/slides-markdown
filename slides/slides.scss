@@ -10,6 +10,10 @@ $presentation-h4-font-size: 1.6em;
 
 /*-- scss:rules --*/
 
+.video-js {
+    background-color: #fff; 
+}
+
 strong { 
     color: #E4572E;
 }
@@ -39,6 +43,17 @@ figcaption {
     font-style: italic !important;
 }
 
+.dataframe {
+    font-size: 0.65em;
+}
+
+.center {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-height: 650px !important
+}
+
 .title {
     color: #29335C !important;
 }
@@ -56,6 +71,14 @@ figcaption {
 }
 
 .reveal ul ul {
+    margin-left: 25px !important;
+}
+
+.reveal ol {
+    margin-left: 45px !important;
+}
+
+.reveal ol ol {
     margin-left: 25px !important;
 }
 
