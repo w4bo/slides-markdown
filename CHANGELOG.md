@@ -1,3 +1,9 @@
+## [1.0.9](https://github.com/w4bo/slides-markdown/compare/1.0.8...1.0.9) (2025-01-10)
+
+### Bug Fixes
+
+* add preview ([a41a7f2](https://github.com/w4bo/slides-markdown/commit/a41a7f26c3b2f68e573e2d3c9c8531d758fc36bb))
+
 ## [1.0.8](https://github.com/w4bo/slides-markdown/compare/1.0.7...1.0.8) (2025-01-10)
 
 ### Bug Fixes
