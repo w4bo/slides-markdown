@@ -1,3 +1,9 @@
+## [1.0.8](https://github.com/w4bo/slides-markdown/compare/1.0.7...1.0.8) (2025-01-10)
+
+### Bug Fixes
+
+* upgrade to also build notebooks ([b04d79f](https://github.com/w4bo/slides-markdown/commit/b04d79f7fd7680b6b4e09a133c4a0a815c0f81d0))
+
 ## [1.0.7](https://github.com/w4bo/slides-markdown/compare/1.0.6...1.0.7) (2025-01-10)
 
 ### Dependency updates
