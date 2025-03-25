@@ -1,3 +1,24 @@
+## [1.0.10](https://github.com/w4bo/slides-markdown/compare/1.0.9...1.0.10) (2025-03-25)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.121 ([#47](https://github.com/w4bo/slides-markdown/issues/47)) ([c2ef824](https://github.com/w4bo/slides-markdown/commit/c2ef824dc52be69cdf9871784fe4ea62976bd9cf))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.122 ([#48](https://github.com/w4bo/slides-markdown/issues/48)) ([a7b8179](https://github.com/w4bo/slides-markdown/commit/a7b817930dda21ad778ff484c73ec90656e0363d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.123 ([#50](https://github.com/w4bo/slides-markdown/issues/50)) ([8f6c159](https://github.com/w4bo/slides-markdown/commit/8f6c15988c54a7285f29e675ad6393ef58f8946f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.124 ([#51](https://github.com/w4bo/slides-markdown/issues/51)) ([93ceb3e](https://github.com/w4bo/slides-markdown/commit/93ceb3e65b0e439115e9640e3eb510a197bd5b0d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.125 ([#52](https://github.com/w4bo/slides-markdown/issues/52)) ([fdbfa58](https://github.com/w4bo/slides-markdown/commit/fdbfa58ebf3f769e095ea680e042d6cc9e664054))
+* **deps:** update node.js to 22.14 ([#49](https://github.com/w4bo/slides-markdown/issues/49)) ([6459237](https://github.com/w4bo/slides-markdown/commit/6459237d553bfa14b90bb2fa5888ec7d7b2d6455))
+
+### Bug Fixes
+
+* change .center to .center-img ([8049ead](https://github.com/w4bo/slides-markdown/commit/8049ead07ae22fd5a1b98ccf5a55465d3c3f75fa))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.2.0 ([#46](https://github.com/w4bo/slides-markdown/issues/46)) ([b1f59e3](https://github.com/w4bo/slides-markdown/commit/b1f59e3efd8f36b187da27daea2fec0bdd465fbd))
+* **deps:** update actions/setup-node action to v4.3.0 ([#54](https://github.com/w4bo/slides-markdown/issues/54)) ([4f485c0](https://github.com/w4bo/slides-markdown/commit/4f485c01d07220c98ee275efcdad4ec28bf2d715))
+* **deps:** update jamesives/github-pages-deploy-action action to v4.7.3 ([#53](https://github.com/w4bo/slides-markdown/issues/53)) ([de772c1](https://github.com/w4bo/slides-markdown/commit/de772c1745ca090da239b8ab3143279eeea069a8))
+
 ## [1.0.9](https://github.com/w4bo/slides-markdown/compare/1.0.8...1.0.9) (2025-01-10)
 
 ### Bug Fixes
