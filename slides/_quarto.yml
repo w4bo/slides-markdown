@@ -7,7 +7,7 @@ project:
     watch-inputs: true
 
 format:
-  revealjs: 
+  revealjs:  # https://quarto.org/docs/reference/formats/presentations/revealjs.html
     theme: [white, slides.scss]
     slide-number: true
     default-image-extension: ""
@@ -17,7 +17,8 @@ format:
     preview-links: auto
     reference-location: document
     footnotes-hover: true
-    scrollable: true
-    width: 1100
+    width: 1280
+    pdf-separate-fragments: true
   pptx:
     reference-doc: slides.pptx
+
