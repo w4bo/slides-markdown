@@ -17,7 +17,8 @@ format:
     preview-links: auto
     reference-location: document
     footnotes-hover: true
-    scrollable: true
-    width: 1100
+    width: 1280
+    pdf-separate-fragments: true
   pptx:
     reference-doc: slides.pptx
+
