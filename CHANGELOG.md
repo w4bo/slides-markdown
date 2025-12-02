@@ -1,3 +1,9 @@
+## [1.0.12](https://github.com/w4bo/slides-markdown/compare/1.0.11...1.0.12) (2025-12-02)
+
+### Bug Fixes
+
+* update utils ([6a28e3a](https://github.com/w4bo/slides-markdown/commit/6a28e3a012df6aa8617ba99b386cc78df5bc5746))
+
 ## [1.0.11](https://github.com/w4bo/slides-markdown/compare/1.0.10...1.0.11) (2025-12-02)
 
 ### Dependency updates
