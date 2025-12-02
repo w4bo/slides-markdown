@@ -1,3 +1,56 @@
+## [1.0.11](https://github.com/w4bo/slides-markdown/compare/1.0.10...1.0.11) (2025-12-02)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.126 ([#58](https://github.com/w4bo/slides-markdown/issues/58)) ([be768a0](https://github.com/w4bo/slides-markdown/commit/be768a0c959ab4e82f5e3a7da80e49204245fc3f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.127 ([#59](https://github.com/w4bo/slides-markdown/issues/59)) ([dc80092](https://github.com/w4bo/slides-markdown/commit/dc80092cc28eaef55ac7c021a800b22c7b6ec9e3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.133 ([#60](https://github.com/w4bo/slides-markdown/issues/60)) ([11215b0](https://github.com/w4bo/slides-markdown/commit/11215b04bdf075ca69d273fe89a20a1302a7d4c8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.134 ([#63](https://github.com/w4bo/slides-markdown/issues/63)) ([c82d6b2](https://github.com/w4bo/slides-markdown/commit/c82d6b2f0025d70b601c046cc37841b7f23a8456))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.135 ([#64](https://github.com/w4bo/slides-markdown/issues/64)) ([b69370c](https://github.com/w4bo/slides-markdown/commit/b69370c8e6d0593096b455c0fda678f31f4ea5bc))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.136 ([#65](https://github.com/w4bo/slides-markdown/issues/65)) ([9415fae](https://github.com/w4bo/slides-markdown/commit/9415fae0a18fa2f2bd76fa235946a911a9538f30))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.137 ([#67](https://github.com/w4bo/slides-markdown/issues/67)) ([7ce70b4](https://github.com/w4bo/slides-markdown/commit/7ce70b4054a5c58928d9c9418dfd4b92d4db6359))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.138 ([#68](https://github.com/w4bo/slides-markdown/issues/68)) ([391fa85](https://github.com/w4bo/slides-markdown/commit/391fa857d93cf787cee587dece2cb223a37a3c7e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.139 ([#70](https://github.com/w4bo/slides-markdown/issues/70)) ([afaa4f2](https://github.com/w4bo/slides-markdown/commit/afaa4f29a54037f4aa811bbc9cab6ec0dc99bc45))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.140 ([#72](https://github.com/w4bo/slides-markdown/issues/72)) ([e1b86db](https://github.com/w4bo/slides-markdown/commit/e1b86dbb7b38696c7ad4a0dfa7481a79d389bbb2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.141 ([#74](https://github.com/w4bo/slides-markdown/issues/74)) ([9ed78e4](https://github.com/w4bo/slides-markdown/commit/9ed78e47885463c8bc619defa1ce1b6e85310c5f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.142 ([#76](https://github.com/w4bo/slides-markdown/issues/76)) ([75d9fd3](https://github.com/w4bo/slides-markdown/commit/75d9fd3fb30cc77b7b6f66571efd9aaafa5e220c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.143 ([#77](https://github.com/w4bo/slides-markdown/issues/77)) ([364c25a](https://github.com/w4bo/slides-markdown/commit/364c25ac56fff320ebe37d76524449af037f77b8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.145 ([#78](https://github.com/w4bo/slides-markdown/issues/78)) ([4c2b5e6](https://github.com/w4bo/slides-markdown/commit/4c2b5e688456c810ca6067a80deaaa3237634bcd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.146 ([#79](https://github.com/w4bo/slides-markdown/issues/79)) ([e8c5e10](https://github.com/w4bo/slides-markdown/commit/e8c5e102d1604c2fd0ca4d8dd695bd2148586b00))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.147 ([#81](https://github.com/w4bo/slides-markdown/issues/81)) ([9206902](https://github.com/w4bo/slides-markdown/commit/92069027593952128d4dfeab2396e4842aeff4a7))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.148 ([#83](https://github.com/w4bo/slides-markdown/issues/83)) ([2daed20](https://github.com/w4bo/slides-markdown/commit/2daed2040c66255fb8ce168b8a383518155cb360))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.149 ([#84](https://github.com/w4bo/slides-markdown/issues/84)) ([0bd4628](https://github.com/w4bo/slides-markdown/commit/0bd46287dcb47be2d6e0313dd85b9b3d1143cdc6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.151 ([#86](https://github.com/w4bo/slides-markdown/issues/86)) ([5665496](https://github.com/w4bo/slides-markdown/commit/56654966f0c3f04849bfc7d013f18f8d05a30afc))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.152 ([#87](https://github.com/w4bo/slides-markdown/issues/87)) ([6f6e084](https://github.com/w4bo/slides-markdown/commit/6f6e0844a7b9c57a0d6d59a291b7c73dad57ad8e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.153 ([#89](https://github.com/w4bo/slides-markdown/issues/89)) ([636cb9c](https://github.com/w4bo/slides-markdown/commit/636cb9ca8ca386f11c75e6a06ce029231d0046cf))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.154 ([#90](https://github.com/w4bo/slides-markdown/issues/90)) ([06b5129](https://github.com/w4bo/slides-markdown/commit/06b512971e641def2de62b2e9973c541f014fff1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.155 ([#92](https://github.com/w4bo/slides-markdown/issues/92)) ([1eb9c19](https://github.com/w4bo/slides-markdown/commit/1eb9c19cceb4beaabb0b6afeae205aa55afece80))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.156 ([#93](https://github.com/w4bo/slides-markdown/issues/93)) ([ae96bb5](https://github.com/w4bo/slides-markdown/commit/ae96bb5d6f021dc7ccc7fde3c3913f26e9f0736c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.157 ([#94](https://github.com/w4bo/slides-markdown/issues/94)) ([a3d4910](https://github.com/w4bo/slides-markdown/commit/a3d491040477a28813c87ea50226a43772abd425))
+* **deps:** update node.js to 22.15 ([#57](https://github.com/w4bo/slides-markdown/issues/57)) ([f72b0a2](https://github.com/w4bo/slides-markdown/commit/f72b0a255997779f8912afae3456c000bc4205e9))
+* **deps:** update node.js to 22.16 ([#61](https://github.com/w4bo/slides-markdown/issues/61)) ([678d09d](https://github.com/w4bo/slides-markdown/commit/678d09dd6be4ae63de5bf6de0b97933ea8d29668))
+* **deps:** update node.js to 22.17 ([#62](https://github.com/w4bo/slides-markdown/issues/62)) ([f54781b](https://github.com/w4bo/slides-markdown/commit/f54781ba4ae632bd8f8a27a3bb8e011a92009e64))
+* **deps:** update node.js to 22.18 ([#69](https://github.com/w4bo/slides-markdown/issues/69)) ([5bf2bd6](https://github.com/w4bo/slides-markdown/commit/5bf2bd6297e000bf41afe82a0e09eacc1166a457))
+* **deps:** update node.js to 22.19 ([#73](https://github.com/w4bo/slides-markdown/issues/73)) ([ece78c3](https://github.com/w4bo/slides-markdown/commit/ece78c38c729293f37127dd096134a61ecc2270c))
+* **deps:** update node.js to 22.20 ([#80](https://github.com/w4bo/slides-markdown/issues/80)) ([4278a5c](https://github.com/w4bo/slides-markdown/commit/4278a5ce0d13c5c64f3ee0eb3358f7f588a22324))
+* **deps:** update node.js to 22.21 ([#85](https://github.com/w4bo/slides-markdown/issues/85)) ([e5e4e83](https://github.com/w4bo/slides-markdown/commit/e5e4e8375e40646364a04be3a369d08b53b19761))
+* **deps:** update node.js to v24 ([#88](https://github.com/w4bo/slides-markdown/issues/88)) ([5929ed1](https://github.com/w4bo/slides-markdown/commit/5929ed1930b9b8a28e545bee827006a0491cda2e))
+* **deps:** update w4bo/python docker tag to v1.0.4 ([#55](https://github.com/w4bo/slides-markdown/issues/55)) ([708a16a](https://github.com/w4bo/slides-markdown/commit/708a16acb9cc90f44ce67494a86461d9363fb2d1))
+
+### Bug Fixes
+
+* gitignore and deleted unused images ([8b8d89c](https://github.com/w4bo/slides-markdown/commit/8b8d89c93dbc66b11d9aa59f29976c5cb5fbc8ba))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v5 ([#71](https://github.com/w4bo/slides-markdown/issues/71)) ([a1af2f2](https://github.com/w4bo/slides-markdown/commit/a1af2f2e5ba0644c9111744fb383eb18307abdac))
+* **deps:** update actions/checkout action to v6 ([#95](https://github.com/w4bo/slides-markdown/issues/95)) ([8e67241](https://github.com/w4bo/slides-markdown/commit/8e67241cf5137a9165e96d56a6d1cdb5a263c3f6))
+* **deps:** update actions/setup-node action to v4.4.0 ([#56](https://github.com/w4bo/slides-markdown/issues/56)) ([6476533](https://github.com/w4bo/slides-markdown/commit/64765338b1566c9fd2a2eb38b1f40b29f480baba))
+* **deps:** update actions/setup-node action to v5 ([#75](https://github.com/w4bo/slides-markdown/issues/75)) ([09c0cfb](https://github.com/w4bo/slides-markdown/commit/09c0cfbd932fb7ed0fdf1239ee399922bfc99a08))
+* **deps:** update actions/setup-node action to v6 ([#82](https://github.com/w4bo/slides-markdown/issues/82)) ([23bca28](https://github.com/w4bo/slides-markdown/commit/23bca2889fd0076ba1d5092e282b19d9d6e13b05))
+* **deps:** update browser-actions/setup-chrome action to v2 ([#66](https://github.com/w4bo/slides-markdown/issues/66)) ([91b10bd](https://github.com/w4bo/slides-markdown/commit/91b10bd90e2bdcdfac64196562c5c8c6a7c8ccdb))
+* **deps:** update jamesives/github-pages-deploy-action action to v4.7.4 ([#91](https://github.com/w4bo/slides-markdown/issues/91)) ([33a8a81](https://github.com/w4bo/slides-markdown/commit/33a8a812a224dfc1d434749e0f69cb0b15c14f08))
+
 ## [1.0.10](https://github.com/w4bo/slides-markdown/compare/1.0.9...1.0.10) (2025-03-25)
 
 ### Dependency updates
