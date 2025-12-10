@@ -10,12 +10,11 @@ jobs:
       - name: Running the notebooks (if any)
         run: |
           cd slides
-          chmod +x *.sh
+          bash utils/init.sh
           docker compose up build
       - name: Generate the slides
         run: |
           cd slides 
-          cp publish.sh.example publish.sh
           docker compose up publish
       - name: Deploy
         if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
