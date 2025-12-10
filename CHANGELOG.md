@@ -1,3 +1,14 @@
+## [1.0.13](https://github.com/w4bo/slides-markdown/compare/1.0.12...1.0.13) (2025-12-10)
+
+### Bug Fixes
+
+* build to pdf ([ba58994](https://github.com/w4bo/slides-markdown/commit/ba589944c19a5ed2e7ed9d27318dcce0bc85a561))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6.1.0 ([#97](https://github.com/w4bo/slides-markdown/issues/97)) ([b5229ab](https://github.com/w4bo/slides-markdown/commit/b5229ab3cb18af8ec3dc1f30fc28a6dfb36b397d))
+* **deps:** update jamesives/github-pages-deploy-action action to v4.7.6 ([#98](https://github.com/w4bo/slides-markdown/issues/98)) ([e2c4572](https://github.com/w4bo/slides-markdown/commit/e2c4572f9b70a9ccf7fcf7f526eba2312710ad9b))
+
 ## [1.0.12](https://github.com/w4bo/slides-markdown/compare/1.0.11...1.0.12) (2025-12-02)
 
 ### Bug Fixes
