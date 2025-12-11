@@ -1,3 +1,14 @@
+## [1.0.14](https://github.com/w4bo/slides-markdown/compare/1.0.13...1.0.14) (2025-12-11)
+
+### Dependency updates
+
+* **deps:** update node.js to 24.12 ([#102](https://github.com/w4bo/slides-markdown/issues/102)) ([eb264d6](https://github.com/w4bo/slides-markdown/commit/eb264d679255be192d9ab90d85d06fdc6f02178c))
+* **deps:** update w4bo/quarto-slides docker tag to v1.0.26 ([#100](https://github.com/w4bo/slides-markdown/issues/100)) ([51ba5d4](https://github.com/w4bo/slides-markdown/commit/51ba5d46cfa117bf5492c740e239971baf7c67e4))
+
+### Bug Fixes
+
+* configure the project from utils ([8037a63](https://github.com/w4bo/slides-markdown/commit/8037a63f70b91bf8b1cc0fe6365cab72ed2ec158))
+
 ## [1.0.13](https://github.com/w4bo/slides-markdown/compare/1.0.12...1.0.13) (2025-12-10)
 
 ### Bug Fixes
