@@ -8,7 +8,15 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-24.04
-    steps:
+    steps:      
+      - name: Maximize build space
+        uses: AdityaGarg8/remove-unwanted-software@v4.1
+        with:
+          remove-cached-tools: 'true'
+          remove-codeql: 'true'
+          remove-dotnet: 'true'
+          remove-android: 'true'
+          remove-haskell: 'true'
       - uses: actions/checkout@v6
         with:
           submodules: true
