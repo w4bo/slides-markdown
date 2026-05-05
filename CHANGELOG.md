@@ -1,3 +1,35 @@
+## [1.0.15](https://github.com/w4bo/slides-markdown/compare/1.0.14...1.0.15) (2026-05-05)
+
+### Dependency updates
+
+* **deps:** update node.js to 24.13 ([#108](https://github.com/w4bo/slides-markdown/issues/108)) ([b5bc500](https://github.com/w4bo/slides-markdown/commit/b5bc500309e1119c583de20cd7a7114b82de8ce5))
+* **deps:** update node.js to 24.14 ([#110](https://github.com/w4bo/slides-markdown/issues/110)) ([d6332e7](https://github.com/w4bo/slides-markdown/commit/d6332e7b0588987676ac845efe962880155f7ea8))
+* **deps:** update node.js to 24.15 ([#115](https://github.com/w4bo/slides-markdown/issues/115)) ([edd2704](https://github.com/w4bo/slides-markdown/commit/edd27046d2fcfa1a31faea5de62cf76957a6bae0))
+* **deps:** update slides/utils digest to 5c44e4b ([#112](https://github.com/w4bo/slides-markdown/issues/112)) ([99cbb67](https://github.com/w4bo/slides-markdown/commit/99cbb67f8ac782c38607214fd8fa7018fe40dbc9))
+* **deps:** update slides/utils digest to 76a0497 ([#104](https://github.com/w4bo/slides-markdown/issues/104)) ([8517861](https://github.com/w4bo/slides-markdown/commit/851786177bd1c49fcd50015192505b7bfedd0e79))
+* **deps:** update slides/utils digest to 787347f ([#105](https://github.com/w4bo/slides-markdown/issues/105)) ([b55d983](https://github.com/w4bo/slides-markdown/commit/b55d9830207514b6363b24130d6b36dde91b0914))
+* **deps:** update slides/utils digest to 7e90833 ([#99](https://github.com/w4bo/slides-markdown/issues/99)) ([6a7e63c](https://github.com/w4bo/slides-markdown/commit/6a7e63cfcb3f4e61d40b58db5c36cd1ca244c187))
+* **deps:** update slides/utils digest to acfe00b ([#106](https://github.com/w4bo/slides-markdown/issues/106)) ([e342970](https://github.com/w4bo/slides-markdown/commit/e342970f3603d634cd10851821650c9aa83ee9a2))
+* **deps:** update slides/utils digest to c722254 ([#103](https://github.com/w4bo/slides-markdown/issues/103)) ([e04d28f](https://github.com/w4bo/slides-markdown/commit/e04d28fd78a1e0b59ba0bc8314a2435ea53a7d29))
+* **deps:** update slides/utils digest to cb86509 ([#113](https://github.com/w4bo/slides-markdown/issues/113)) ([9fe5aa6](https://github.com/w4bo/slides-markdown/commit/9fe5aa68e3c59a5bb95d9012a89f4f2bf47663ec))
+* **deps:** update w4bo/python docker tag to v1.0.7 ([#114](https://github.com/w4bo/slides-markdown/issues/114)) ([0f5b7bc](https://github.com/w4bo/slides-markdown/commit/0f5b7bcaac7dce845322f942088771cc23f1590a))
+
+### Bug Fixes
+
+* update utils ([2c5043d](https://github.com/w4bo/slides-markdown/commit/2c5043d547e0bd9e4fbe49b7ff7bd21af1c79431))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6.2.0 ([#109](https://github.com/w4bo/slides-markdown/issues/109)) ([f44d873](https://github.com/w4bo/slides-markdown/commit/f44d8737d83655c6c32eb41859f304d238afeef2))
+* **deps:** update actions/setup-node action to v6.3.0 ([#111](https://github.com/w4bo/slides-markdown/issues/111)) ([2235f85](https://github.com/w4bo/slides-markdown/commit/2235f85171484e15bbf873ecefebbf7997558c3c))
+* **deps:** update actions/setup-node action to v6.4.0 ([#116](https://github.com/w4bo/slides-markdown/issues/116)) ([2eabe01](https://github.com/w4bo/slides-markdown/commit/2eabe01ec2b1ffccd0b04e6c9bb1a61a1f731ba9))
+* **deps:** update adityagarg8/remove-unwanted-software action to v5 ([#117](https://github.com/w4bo/slides-markdown/issues/117)) ([a969c6d](https://github.com/w4bo/slides-markdown/commit/a969c6d36e57cd9bd301c11b11b1f036d5ac587c))
+* **deps:** update jamesives/github-pages-deploy-action action to v4.8.0 ([#107](https://github.com/w4bo/slides-markdown/issues/107)) ([9df76f9](https://github.com/w4bo/slides-markdown/commit/9df76f9caabe528824bf43c24c04543aad4529da))
+
+### General maintenance
+
+* add Quarto extension to devcontainer configuration ([6dbed74](https://github.com/w4bo/slides-markdown/commit/6dbed74de024e958cd2b82637a23c060a56ffda4))
+
 ## [1.0.14](https://github.com/w4bo/slides-markdown/compare/1.0.13...1.0.14) (2025-12-11)
 
 ### Dependency updates
