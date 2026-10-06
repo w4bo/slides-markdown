@@ -1,3 +1,33 @@
+## [1.0.16](https://github.com/w4bo/slides-markdown/compare/1.0.15...1.0.16) (2026-10-06)
+
+### Dependency updates
+
+* **deps:** update node.js to 24.16 ([#119](https://github.com/w4bo/slides-markdown/issues/119)) ([ad0fb92](https://github.com/w4bo/slides-markdown/commit/ad0fb92f208fd87669e794ddf7a671a78985cd68))
+* **deps:** update node.js to 24.17 ([#120](https://github.com/w4bo/slides-markdown/issues/120)) ([ab02adb](https://github.com/w4bo/slides-markdown/commit/ab02adb521a7e67326d2aeeb2d00d2c50b82d8bb))
+* **deps:** update node.js to 24.18 ([#122](https://github.com/w4bo/slides-markdown/issues/122)) ([03e7ead](https://github.com/w4bo/slides-markdown/commit/03e7ead208bec1626bad1eb106d7b2f763ac31a4))
+* **deps:** update node.js to 24.19 ([#125](https://github.com/w4bo/slides-markdown/issues/125)) ([a29d27e](https://github.com/w4bo/slides-markdown/commit/a29d27ee0de0e561fbdc40a95e19ab3de66a146d))
+* **deps:** update node.js to 24.20 ([#129](https://github.com/w4bo/slides-markdown/issues/129)) ([81a0df3](https://github.com/w4bo/slides-markdown/commit/81a0df3b649749606d31105cfd117f4cef011b56))
+* **deps:** update node.js to 24.21 ([#131](https://github.com/w4bo/slides-markdown/issues/131)) ([febebda](https://github.com/w4bo/slides-markdown/commit/febebda24adc7c77f708599043c1cb49142b1037))
+* **deps:** update slides/utils digest to 1a1c4df ([#132](https://github.com/w4bo/slides-markdown/issues/132)) ([51eed64](https://github.com/w4bo/slides-markdown/commit/51eed64be22ed4c6ad3c7f8cd26920cabf09cacf))
+* **deps:** update slides/utils digest to 278d811 ([#135](https://github.com/w4bo/slides-markdown/issues/135)) ([f1e2c96](https://github.com/w4bo/slides-markdown/commit/f1e2c96e5125ee9e49d425e1a8744c35ac9f8e7e))
+* **deps:** update slides/utils digest to 299d21a ([#130](https://github.com/w4bo/slides-markdown/issues/130)) ([1a25069](https://github.com/w4bo/slides-markdown/commit/1a25069e57cd87b8bd189d6a63706347dbedfceb))
+* **deps:** update slides/utils digest to 47e7239 ([#128](https://github.com/w4bo/slides-markdown/issues/128)) ([ae5e5d9](https://github.com/w4bo/slides-markdown/commit/ae5e5d9722fbb99e67be9a9d8380960cf89e8b67))
+* **deps:** update slides/utils digest to 5e40e8b ([#118](https://github.com/w4bo/slides-markdown/issues/118)) ([190edb1](https://github.com/w4bo/slides-markdown/commit/190edb1710e975e58b2fdfab5576d200cb8d521a))
+* **deps:** update slides/utils digest to d04452e ([#133](https://github.com/w4bo/slides-markdown/issues/133)) ([093f675](https://github.com/w4bo/slides-markdown/commit/093f675be380422f4a5b53e79e8a06814152b743))
+* **deps:** update slides/utils digest to eaf95de ([#126](https://github.com/w4bo/slides-markdown/issues/126)) ([a0c2d57](https://github.com/w4bo/slides-markdown/commit/a0c2d579005167118423aca775c61a63566465b6))
+
+### Bug Fixes
+
+* working on pdf generation ([#137](https://github.com/w4bo/slides-markdown/issues/137)) ([8bb537e](https://github.com/w4bo/slides-markdown/commit/8bb537e86971c69c431c13d3545aefecb81468ed))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v7 ([#121](https://github.com/w4bo/slides-markdown/issues/121)) ([90447ca](https://github.com/w4bo/slides-markdown/commit/90447ca9330f9ff78e3fd16f782ad46243465644))
+* **deps:** update actions/setup-node action to v6.5.0 ([#123](https://github.com/w4bo/slides-markdown/issues/123)) ([a4d612c](https://github.com/w4bo/slides-markdown/commit/a4d612c14ecb1cac54aa53e72fb2db8212f8f674))
+* **deps:** update actions/setup-node action to v7 ([#124](https://github.com/w4bo/slides-markdown/issues/124)) ([83575f7](https://github.com/w4bo/slides-markdown/commit/83575f7ee396ab577ecbafa516b0099f9ab7a029))
+* **deps:** update dependency ubuntu to v26 ([#134](https://github.com/w4bo/slides-markdown/issues/134)) ([72185e8](https://github.com/w4bo/slides-markdown/commit/72185e80abfcc8e626fffc8f559d38963eb877b5))
+* **deps:** update jamesives/github-pages-deploy-action action to v4.9.0 ([#127](https://github.com/w4bo/slides-markdown/issues/127)) ([06cdac9](https://github.com/w4bo/slides-markdown/commit/06cdac9595871f9904fc06af00fb23ff3ee6ff72))
+
 ## [1.0.15](https://github.com/w4bo/slides-markdown/compare/1.0.14...1.0.15) (2026-05-05)
 
 ### Dependency updates
