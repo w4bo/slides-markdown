@@ -1,3 +1,18 @@
+## [1.0.17](https://github.com/w4bo/slides-markdown/compare/1.0.16...1.0.17) (2026-10-12)
+
+### Dependency updates
+
+* **deps:** update slides/utils digest to 5739861 ([#139](https://github.com/w4bo/slides-markdown/issues/139)) ([d0b6a55](https://github.com/w4bo/slides-markdown/commit/d0b6a55543ff9677e668d579f03f3971311a4bf8))
+* **deps:** update slides/utils digest to 9e1b404 ([#136](https://github.com/w4bo/slides-markdown/issues/136)) ([1228aae](https://github.com/w4bo/slides-markdown/commit/1228aae23d822cab1bfa2ccaf93edbbe5617a0be))
+
+### Bug Fixes
+
+* update CI ([a7288ea](https://github.com/w4bo/slides-markdown/commit/a7288ea776c0cd48f174f6752b3966acb9db7a9b))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v7.1.0 ([#138](https://github.com/w4bo/slides-markdown/issues/138)) ([61f7b60](https://github.com/w4bo/slides-markdown/commit/61f7b60029f87a4df610a1084db5c68baccb084a))
+
 ## [1.0.16](https://github.com/w4bo/slides-markdown/compare/1.0.15...1.0.16) (2026-10-06)
 
 ### Dependency updates
